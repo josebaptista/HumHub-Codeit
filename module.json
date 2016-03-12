@@ -1,0 +1,9 @@
+{
+    "id": "codeit",
+    "name": "CODEIT",
+    "description": "CODEIT is a simple online IDE, which You can use to edit Your HumHub Themes online right from the Admin Panel.",
+    "keywords": [
+        "CODEIT IDE"
+    ],
+    "version": "0.20"
+}
