@@ -1,7 +1,9 @@
 humhub-codeit
 =============
 
-HumHub Codeit Module is in development (99% done).
+HumHub Codeit Module is in development (90% done). 
+
+**Note:** Its not working right now, some work has to be done. Have to replace the iframe with the default index.php of the CODEIT IDE application, then it should work well.
 
 You can use the **HumHub Codeit Module** to edit HumHub themes online, right from Your admin panel.
 The Module was done to work with HumHub Versions 0.20+ (Yii2).
