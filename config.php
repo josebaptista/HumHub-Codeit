@@ -1,13 +1,21 @@
 <?php
+namespace humhub\modules\codeit;
 
-Yii::app()->moduleManager->register(array(
+use humhub\widgets\TopMenu;
+
+return [
     'id' => 'codeit',
-    'class' => 'application.modules.codeit.CODEIT',
-    'import' => array(
-        'application.modules.codeit.*',
-    ),
-    'events' => array(
-        array('class' => 'TopMenuWidget', 'event' => 'onInit', 'callback' => array('CODEITEvents', 'onTopMenuInit')),
-    ),
-));
+    'class' => 'humhub\modules\codeit\Module',
+    'namespace' => 'humhub\modules\codeit',
+    'events' => [
+        [
+            'class' => \humhub\modules\admin\widgets\AdminMenu::className(),
+            'event' => \humhub\modules\admin\widgets\AdminMenu::EVENT_INIT,
+            'callback' => [
+                'humhub\modules\codeit\Events',
+                'onAdminMenuInit'
+            ]
+        ]
+    ]
+];
 ?>
