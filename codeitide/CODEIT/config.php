@@ -19,7 +19,7 @@ $newUser = array
 (
 	'usr' => 'Demo', // the username ( to replace with your custom username )
 	'psw' => 'f0258b6685684c113bad94d91b8fa02a', // the password encrypted with md5  ( to replace with your encrypted password  )
-	'root' => '../projects_root' // the root folder path of your files
+	'root' => '../../themes' // the root folder path of your files
 );
 
 /*
