@@ -5,5 +5,8 @@
     "keywords": [
         "CODEIT IDE"
     ],
-    "version": "0.20"
+    "version": "0.20",
+    "humhub": {
+        "minVersion": "0.20"
+    }
 }
