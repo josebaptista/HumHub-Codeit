@@ -23,9 +23,11 @@ How to install:
 
 5. Now You can see a "codeit" link in Your navigation.
 
-6. visit the link and login with: 
-   login name= admin
-   login password= pass
+6. visit the link and login with:
+7. 
+   login name= **admin**
+
+   login password= **pass**
 
 7. You`re done - have fun with using Codeit Module :)
 
@@ -37,6 +39,7 @@ Open **codeit/views/admin/index.php** and check if the path fit Your system sett
 
 Open **codeit/views/main/index.php** and check if the path fit Your system settings. Maybe You have installed HumHub into a subfolder then the URL should be something like: src="/**your subfolder name**/themes/ide/index.php" Find the code at line 12.
 
+**Note:** I personaly run into a little problem after I tried to uninstall the module. I know no solution so far and would be happy if you give me some adwise how to solv that problem. Thank You!
 
 How to change login name and password:
 --------------------------------------
