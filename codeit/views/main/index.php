@@ -9,7 +9,7 @@
             <div class="panel-body">
 
                 <p>
-                	<iframe id="iframepage" style="width: 100%; height: 100%;" src="protected/modules/codeit/codeitide/CODEIT/index_EN.php?"></iframe>
+                	<iframe id="iframepage" style="width: 100%; height: 100%; min-height: 560px;" src="/themes/ide/index.php"></iframe>
                 </p>
             
             </div>
