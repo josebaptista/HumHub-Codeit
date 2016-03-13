@@ -29,6 +29,13 @@ How to install:
 
 7. You`re done - have fun with using Codeit Module :)
 
+###Known Problems
+
+If You run into some problems its mostly cause of the setup of the right URL to the IDE.
+
+Open **codeit/views/admin/index.php** and check if the path fit Your system settings. Maybe You have installed HumHub into a subfolder then the URL should be something like: src="/**your subfolder name**/themes/ide/index.php" Find the code at line 10.
+
+Open **codeit/views/main/index.php** and check if the path fit Your system settings. Maybe You have installed HumHub into a subfolder then the URL should be something like: src="/**your subfolder name**/themes/ide/index.php" Find the code at line 12.
 
 
 How to change login name and password:
