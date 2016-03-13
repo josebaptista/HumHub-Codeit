@@ -31,7 +31,7 @@ How to install:
 
 ###Known Problems
 
-If You run into some problems its mostly cause of the setup of the right URL to the IDE.
+An error occurs when the path to the IDE is specified incorrectly.
 
 Open **codeit/views/admin/index.php** and check if the path fit Your system settings. Maybe You have installed HumHub into a subfolder then the URL should be something like: src="/**your subfolder name**/themes/ide/index.php" Find the code at line 10.
 
