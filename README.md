@@ -3,11 +3,11 @@ humhub-codeit
 
 A module for administrators to edit HumHub themes online.
 
-Note: The module is a work in progress. At the moment You can already use it, its working, but we`ve not integrated all planned features right now. There is still the syntax highliting and line numbering to do. Also, the style and the responsive feature has to be improved.
+**Note:** The module is a work in progress, but You can use it already! **The module is working**, but we`ve not integrated all planned features right now. There is still the syntax highliting and line numbering to do. Also, the style and the responsive feature has to be improved.
 
 You`re welcome to help us solve the issues and to make our module pervect ;)
 
-** The Module is for HumHub Versions 0.20+ **
+**The Module is for HumHub Versions 0.20+**
 
 How to install:
 ---------------
