@@ -1,5 +1,5 @@
-HumHub-editonline-Module
-Version 1.0
+HumHub-codeit-Module
+Version 0.20
 
 At the moment no changes.
 
