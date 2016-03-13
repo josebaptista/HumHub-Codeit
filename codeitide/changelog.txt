@@ -1,0 +1,6 @@
+HumHub-editonline-Module
+Version 1.0
+
+At the moment no changes.
+
+Copyright 2015 by Web-Crew.org / Andreas Holzer
