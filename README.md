@@ -1,4 +1,4 @@
-humhub-codeit
+[Humhub](https://humhub.org) CODEIT
 =============
 
 A module for administrators to edit HumHub themes online.
