@@ -107,5 +107,7 @@ Copyright 2016 by Andreas Holzer / web-crew.org  All rights reserved.
 
 A huge **THANK YOU** to:
 
+@Felli Sarah Tsumoy (Thank You verrry much)
 @petersmithcu Peter Smith (Thank You verrry much)
+
 
